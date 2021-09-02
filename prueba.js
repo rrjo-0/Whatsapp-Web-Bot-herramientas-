@@ -1,11 +1,8 @@
 /*
-    estas funciones no estan para chats personales
+    estas funciones no estan para chats 'privados'
     -- obtener nombre del usuario
     -- obtener nickname
 */
-
-
-// para grupos
    
 setChat('Fotos',ChatGroup);
     if(init_WhatsAppWeb() == 0){
@@ -20,7 +17,7 @@ setChat('Fotos',ChatGroup);
                     if(msg == 'ping!'){
                         
                         if(rrjo.getNickName() == false){
-                             rrjo.send(" pong!, hola " + rrjo.chatName() + "!");
+                             rrjo.send(" pong!, hola " + chatName + "!");
                         }else{
                             rrjo.send(" pong!, hola " + rrjo.NickName() + "!");
                         }
