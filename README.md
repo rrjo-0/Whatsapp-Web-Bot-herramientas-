@@ -1,4 +1,4 @@
-# kkl
+# rrjo, historia y como ejecutarlo
 
 bueno pues...
 
