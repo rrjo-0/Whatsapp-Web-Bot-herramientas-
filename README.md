@@ -27,10 +27,10 @@ tienes que ejecutar los script en la consola.
 	ejecuta setChat("nombre del chat", tipoDeChat)
 	si cambias de chat sin esta function puede causar errores :(
 	
-	en 'tipoDeChat' tienes que elegir entre 
-		ChatGroup o ChatUser
-	dependiendo si es grupo o chat 'privado'
+en 'tipoDeChat' tienes que elegir entre 
+	ChatGroup o ChatUser
+dependiendo si es grupo o chat 'privado'
 	
-	siempre cargar un interval en el script para responder un mensaje
-	un ejemplo del uso esta en el archivo 'prueba' ( la funcion '_bot(code)' tiene un interval por dentro, es para hacerlo mas bonito xdddd)
+ siempre cargar un interval en el script para responder un mensaje
+ un ejemplo del uso esta en el archivo 'prueba' ( la funcion '_bot(code)' tiene un interval por dentro, es para hacerlo mas bonito xdddd)
 	
