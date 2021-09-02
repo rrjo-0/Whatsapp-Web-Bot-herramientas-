@@ -18,7 +18,7 @@ si no entiendes como implementarlo te lo explico
 Selecciona los tres puntos de la esquina superior derecha de tu pantalla.
 Selecciona "Más herramientas", después "Herramientas para desarrolladores"
 Cuando la nueva pantalla se abra, selecciona la pestaña "Consola" en la parte superior.
-tienes que ejecutar los script en la consola
+tienes que ejecutar los script en la consola.
 
 4- crear un codigo usando las herramientas dadas
 
